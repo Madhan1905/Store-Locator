@@ -1,0 +1,21 @@
+.boldText{
+    font-weight: bold;
+}
+
+.storeList {
+    padding: 2%;
+}
+
+.mainTile {
+    background-color:khaki;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    cursor: pointer;
+    margin-bottom: 5%;
+}

@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: azure;
+    flex-direction: column;
+}
+
+.heading {
+    background-color: aquamarine;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: bold;
+}
+
+.content {
+    height: 90%;
+    display: flex;
+}
+
+.leftBody {
+    width: 25%;
+}
+
+.rightBody {
+    width: 75%;
+}
